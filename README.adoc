@@ -1,0 +1,13 @@
+# Asciidoc-Theme
+
+- fix minor stylesheet on the default theme.
+- add jQuery to support collapse/expend the TOC.
+- add border to the current active menu-item.
+
+## Requirements
+
+- jQuery
+- you should copy images/icons/li-chevron.png to dest folder
+
+## License
+**MIT**
